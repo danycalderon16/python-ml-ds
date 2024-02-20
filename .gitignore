@@ -1,1 +1,5 @@
 venv/
+casos_practicos/*.png
+casos_practicos/*.csv
+casos_practicos/*.html
+casos_practicos/*.json
